@@ -6,7 +6,7 @@
 
 # Interesting
 
-* [4d cube visualisation](https://youtu.be/Bz3eZinhyoE?t=12793)
+* [4d cube visualisation](https://www.youtube.com/watch?v=PdFU1Sb4NOs)
 
 # Software
 
