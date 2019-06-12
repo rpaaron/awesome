@@ -12,3 +12,4 @@
 
 * [Git internals performance](https://devblogs.microsoft.com/devops/exploring-new-frontiers-for-git-push-performance/)
 * [State machines](https://www.youtube.com/watch?v=VU1NKX6Qkxc)
+* [CSS Grid subgrid](https://www.youtube.com/watch?v=vxOj7CaWiPU)
