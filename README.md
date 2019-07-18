@@ -14,3 +14,4 @@
 * [(8/9) State machines](https://www.youtube.com/watch?v=VU1NKX6Qkxc)
 * [(8/9) CSS Grid subgrid](https://www.youtube.com/watch?v=vxOj7CaWiPU)
 * [(5/9) Some git (and concurancy) intuition](https://www.youtube.com/watch?v=tyj390blxPc)
+* [(9/9) Syscalls (stripped C minimal binary)](https://www.youtube.com/playlist?list=PLQuALTOMhtbe2EYTCTtNDDWVzGWECpCJ9)
