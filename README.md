@@ -1,16 +1,16 @@
 # Language learning
 
-* [1500 images with audio](https://babadum.com)
-* [How to language exchange](https://www.youtube.com/watch?v=illApgaLgGA&t=3024s)
+* [(8/9) 1500 images with audio](https://babadum.com)
+* [(8/9) How to language exchange](https://www.youtube.com/watch?v=illApgaLgGA&t=3024s)
 
 
 # Interesting
 
-* [4d cube visualisation](https://www.youtube.com/watch?v=PdFU1Sb4NOs)
+* [(9/9) 4d cube visualisation](https://www.youtube.com/watch?v=PdFU1Sb4NOs)
 
 # Software
 
-* [Git internals performance](https://devblogs.microsoft.com/devops/exploring-new-frontiers-for-git-push-performance/)
-* [State machines](https://www.youtube.com/watch?v=VU1NKX6Qkxc)
-* [CSS Grid subgrid](https://www.youtube.com/watch?v=vxOj7CaWiPU)
-* [Some git (and concurancy) intuition](https://www.youtube.com/watch?v=tyj390blxPc)
+* [(9/9) Git internals performance](https://devblogs.microsoft.com/devops/exploring-new-frontiers-for-git-push-performance/)
+* [(8/9) State machines](https://www.youtube.com/watch?v=VU1NKX6Qkxc)
+* [(8/9) CSS Grid subgrid](https://www.youtube.com/watch?v=vxOj7CaWiPU)
+* [(5/9) Some git (and concurancy) intuition](https://www.youtube.com/watch?v=tyj390blxPc)
