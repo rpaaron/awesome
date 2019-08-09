@@ -16,3 +16,4 @@
 * [(5/9) Some git (and concurancy) intuition](https://www.youtube.com/watch?v=tyj390blxPc)
 * [(9/9) Syscalls (stripped C minimal binary)](https://www.youtube.com/playlist?list=PLQuALTOMhtbe2EYTCTtNDDWVzGWECpCJ9)
 * [(DNF) Autotools](https://autotools.io/index.html)
+* [(9/9) C++ wisdom via twitter](https://threadreaderapp.com/thread/1080069784644059139.html)
