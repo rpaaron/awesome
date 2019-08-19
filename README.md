@@ -17,3 +17,10 @@
 * [(9/9) Syscalls (stripped C minimal binary)](https://www.youtube.com/playlist?list=PLQuALTOMhtbe2EYTCTtNDDWVzGWECpCJ9)
 * [(DNF) Autotools](https://autotools.io/index.html)
 * [(9/9) C++ wisdom via twitter](https://threadreaderapp.com/thread/1080069784644059139.html)
+* [(6/9) Agility](https://www.csc.gov.sg/articles/how-to-build-good-software)
+
+# UI
+
+* [(6/9) Datepicker)](https://vaadin.com/components/vaadin-date-picker/java-examples)
+* [(6/9) Practical UX advice](https://learnui.design/blog/4-rules-intuitive-ux.html)
+* [(6/9) Practical HTML styling advice](https://jdauriemma.com/programming/methodical-html-css-development)
