@@ -19,6 +19,9 @@
 * [(9/9) C++ wisdom via twitter](https://threadreaderapp.com/thread/1080069784644059139.html)
 * [(6/9) Agility](https://www.csc.gov.sg/articles/how-to-build-good-software)
 
+## Stream processing
+* [(6/9) Billing system in Flink](https://www.youtube.com/watch?v=QPnJfumBOl4)
+
 # UI
 
 * [(6/9) Datepicker)](https://vaadin.com/components/vaadin-date-picker/java-examples)
