@@ -20,7 +20,10 @@
 * [(6/9) Agility](https://www.csc.gov.sg/articles/how-to-build-good-software)
 
 ## Stream processing
+
+### Flink
 * [(6/9) Billing system in Flink](https://www.youtube.com/watch?v=QPnJfumBOl4)
+* [(7/9) Robust stream processing in Flink](https://www.youtube.com/watch?v=fstKKxvY23c)
 
 # UI
 
