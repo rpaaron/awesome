@@ -24,6 +24,7 @@
 ### Flink
 * [(6/9) Billing system in Flink](https://www.youtube.com/watch?v=QPnJfumBOl4)
 * [(7/9) Robust stream processing in Flink](https://www.youtube.com/watch?v=fstKKxvY23c)
+* [(DNF) Robust stream processing in Flink](https://www.youtube.com/watch?v=kyLtjuz5A0c)
 
 # UI
 
