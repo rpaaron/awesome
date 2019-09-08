@@ -2,6 +2,7 @@
 
 * [(8/9) 1500 images with audio](https://babadum.com)
 * [(8/9) How to language exchange](https://www.youtube.com/watch?v=illApgaLgGA&t=3024s)
+* [(2/9) List of websites](https://www.reddit.com/r/languagelearning/comments/d1bu9l/all_websites_for_finding_free_language_courses/)
 
 ## Russian cases
 * [(5/9) Sound based approach](https://www.reddit.com/r/russian/comments/d12jo5/a_little_different_approach_to_learning_cases/)
