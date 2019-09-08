@@ -3,6 +3,9 @@
 * [(8/9) 1500 images with audio](https://babadum.com)
 * [(8/9) How to language exchange](https://www.youtube.com/watch?v=illApgaLgGA&t=3024s)
 
+## Russian cases
+* [(5/9) Sound based approach](https://www.reddit.com/r/russian/comments/d12jo5/a_little_different_approach_to_learning_cases/)
+
 
 # Interesting
 
