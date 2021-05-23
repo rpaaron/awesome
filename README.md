@@ -22,6 +22,7 @@
 * [(DNF) Autotools](https://autotools.io/index.html)
 * [(9/9) C++ wisdom via twitter](https://threadreaderapp.com/thread/1080069784644059139.html)
 * [(6/9) Agility](https://www.csc.gov.sg/articles/how-to-build-good-software)
+* [(7/9) Fun talk about history of video](https://www.youtube.com/watch?v=s661CU6Fvl4)
 
 ## Stream processing
 
