@@ -24,6 +24,7 @@
 * [(6/9) Agility](https://www.csc.gov.sg/articles/how-to-build-good-software)
 * [(7/9) Fun talk about history of video](https://www.youtube.com/watch?v=s661CU6Fvl4)
 * [(6/9) Ideas about showing program internal state](https://twitter.com/thingskatedid/status/1386077306381242371)
+* [(3/9) Not bad whirlwind Docker talk](https://www.youtube.com/watch?v=woBI466WMR8)
 
 ## Stream processing
 
