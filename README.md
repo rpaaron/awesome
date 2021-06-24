@@ -25,6 +25,7 @@
 * [(7/9) Fun talk about history of video](https://www.youtube.com/watch?v=s661CU6Fvl4)
 * [(6/9) Ideas about showing program internal state](https://twitter.com/thingskatedid/status/1386077306381242371)
 * [(3/9) Not bad whirlwind Docker talk](https://www.youtube.com/watch?v=woBI466WMR8)
+* [(6/9) Static and shared libs](https://amir.rachum.com/blog/2016/09/17/shared-libraries/)
 
 ## Stream processing
 
