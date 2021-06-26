@@ -6,6 +6,7 @@
 
 ## Russian cases
 * [(5/9) Sound based approach](https://www.reddit.com/r/russian/comments/d12jo5/a_little_different_approach_to_learning_cases/)
+* [(3/9) 23 watches! idk, jsut kind of funny](https://www.reddit.com/r/russian/comments/ntreqv/i_have_23_watches/)
 
 
 # Interesting
