@@ -21,13 +21,16 @@
 * [(5/9) Some git (and concurancy) intuition](https://www.youtube.com/watch?v=tyj390blxPc)
 * [(9/9) Syscalls (stripped C minimal binary)](https://www.youtube.com/playlist?list=PLQuALTOMhtbe2EYTCTtNDDWVzGWECpCJ9)
 * [(DNF) Autotools](https://autotools.io/index.html)
-* [(9/9) C++ wisdom via twitter](https://threadreaderapp.com/thread/1080069784644059139.html)
 * [(6/9) Agility](https://www.csc.gov.sg/articles/how-to-build-good-software)
 * [(7/9) Fun talk about history of video](https://www.youtube.com/watch?v=s661CU6Fvl4)
 * [(6/9) Ideas about showing program internal state](https://twitter.com/thingskatedid/status/1386077306381242371)
 * [(5/9) Not bad whirlwind Docker talk](https://www.youtube.com/watch?v=woBI466WMR8)
 * [(6/9) Static and shared libs](https://amir.rachum.com/blog/2016/09/17/shared-libraries/)
 * [(6/9) systemd tips](https://mgdm.net/weblog/systemd/)
+
+## C++
+
+* [(9/9) C++ wisdom via twitter](https://threadreaderapp.com/thread/1080069784644059139.html)
 * [(5/9) Advanced C++: Templates](https://www.youtube.com/watch?v=HBUmhrv5hy0&list=PL1tk5lGm7zvRN62cMHBsqDq7gRDXwbQd3&index=4)
 
 ## Stream processing
