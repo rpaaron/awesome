@@ -28,6 +28,7 @@
 * [(5/9) Not bad whirlwind Docker talk](https://www.youtube.com/watch?v=woBI466WMR8)
 * [(6/9) Static and shared libs](https://amir.rachum.com/blog/2016/09/17/shared-libraries/)
 * [(6/9) systemd tips](https://mgdm.net/weblog/systemd/)
+* [(5/9) Advanced C++: Templates](https://www.youtube.com/watch?v=HBUmhrv5hy0&list=PL1tk5lGm7zvRN62cMHBsqDq7gRDXwbQd3&index=4)
 
 ## Stream processing
 
